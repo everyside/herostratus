@@ -28,7 +28,7 @@
     "electron-window": "^0.6.0",
     "flexboxgrid": "^6.3.0",
     "is-elevated": "^1.0.0",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.20",
     "resin-image-write": "^2.0.5",
     "sudo-prompt": "^2.0.2",
     "umount": "^1.1.1",
